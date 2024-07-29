@@ -37,7 +37,7 @@ The `proxy.sh` script performs the following actions:
 9. Creates deployment and interaction scripts (`deploy.js`, `setMessage.js`, `getMessage.js`).
 10. Deploys the contract.
 11. Runs the scripts to set and get the message.
-12.- Now visit : [Click Here](https://github.com/hassan0smp/swissTronik-private-ERC721/blob/main/upload-to-github.md) to upload these codes in your github repository
+12.- Now visit : [Click Here](https://github.com/hassan0smp/swissTronik-Deploy-Proxy/tree/main) to upload these codes in your github repository
 ## Done!
 
 
